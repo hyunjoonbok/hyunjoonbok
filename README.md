@@ -19,9 +19,9 @@
 ### Interest
 - Simple Analysis to Business Cost Redcution
 - Machine Learning in Production 
-- AWS Stack 
+- AWS / Cloud Stack 
 - Market Research
-- Leadership
+- Work Automation (yes!)
 
 
 ### Featured Repo

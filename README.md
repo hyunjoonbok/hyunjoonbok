@@ -9,6 +9,8 @@
 
 </div>
 
+<hr>
+
 ### Data Scientist / Business Analyst
 - +3 Years Data Analyst in Gaming industry
 - +1 Year Business Analyst in Non-Profit
@@ -27,9 +29,12 @@
 | Repo | Description | Link |
 | --- | --- | --- |
 | R Portforlio | R Portforlio in R. In .R or .Rmd files | [Link](https://github.com/hyunjoonbok/R-projects) |
-| Python Portforlio | Mostly in Notebooks in chronological order by ML/DL framework(i.e. Pytorch, Tensorflow, Fast.ai, etc) | [Link](https://github.com/hyunjoonbok/Python-Projects) |
-| SageMaker | End-to-End examples that show how to solve business problems using Amazon SageMaker and it's ML/DL algorithm. Mostly in Jupyter Notebook for easy accessibility | [Link](https://github.com/hyunjoonbok/amazon-sagemaker) |
+| Python Portforlio | Python Portforlio mostly in Jupyter Notebooks in chronological order by ML/DL framework(i.e. Pytorch, Tensorflow, Fast.ai, etc) | [Link](https://github.com/hyunjoonbok/Python-Projects) |
+| AWS SageMaker in Production | End-to-End examples that show how to solve business problems using Amazon SageMaker and it's ML/DL algorithm. Mostly in Jupyter Notebook for easy accessibility | [Link](https://github.com/hyunjoonbok/amazon-sagemaker) |
+| Recommendation System | Prodcution-level Implementations of Recommender System in Pytorch. Clone repo and start training by running 'main.py' | [Link](https://github.com/hyunjoonbok/Recommendation_System-PyTorch) |
+| Natural Language Processing (NLP) Examples | Full implementation examples of several Natural Language Processing methods in Python. Ordered in a persoanl level of complexity | [Link](https://github.com/hyunjoonbok/natural-language-processing) |
 
+<hr>
 
 <div align=center>
 			
@@ -40,21 +45,3 @@
 
 
 </div>
-
-
-
-
-<!--
-**hyunjoonbok/hyunjoonbok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

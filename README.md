@@ -21,6 +21,16 @@
 - Market Research
 - Leadership
 
+
+### Featured Repo
+
+| Repo | Description | Link |
+| --- | --- | --- |
+| R Portforlio | R Portforlio in R. In .R or .Rmd files | [Link](https://github.com/hyunjoonbok/R-projects) |
+| Python Portforlio | Mostly in Notebooks in chronological order by ML/DL framework(i.e. Pytorch, Tensorflow, Fast.ai, etc) | [Link](https://github.com/hyunjoonbok/Python-Projects) |
+| SageMaker | End-to-End examples that show how to solve business problems using Amazon SageMaker and it's ML/DL algorithm. Mostly in Jupyter Notebook for easy accessibility | [Link](https://github.com/hyunjoonbok/amazon-sagemaker) |
+
+
 <div align=center>
 			
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyunjoonbok/)](https://www.linkedin.com/in/hyunjoonbok/)	

@@ -19,7 +19,7 @@
 ### Interest
 - Simple Analysis to Business Cost Redcution
 - Machine Learning in Production 
-- AWS / Cloud Stack 
+- AWS Stack / Cloud Services 
 - Market Research
 - Work Automation (yes!)
 

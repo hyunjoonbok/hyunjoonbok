@@ -10,6 +10,8 @@
 
 <hr>
 
+[![HJ github stats](https://github-readme-stats.vercel.app/api?username=hyunjoonbok&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Data Scientist / Business Analyst
 - +3 Years Data Analyst in Gaming industry
 - +1 Year Business Analyst in Non-Profit

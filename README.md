@@ -21,7 +21,7 @@
 - Simple Analysis to Business Cost Redcution
 - Machine Learning in Production 
 - AWS Stack / Cloud Services 
-- Market Research
+- Business Market Research
 - Work Automation (yes!)
 
 

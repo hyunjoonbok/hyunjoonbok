@@ -35,6 +35,7 @@
 | PySpark | PySpark functions and utilities with Real-world Data examples. Can be used to build complete ETL process of data modeling | [Link](https://github.com/hyunjoonbok/PySpark) |
 | Recommendation System | Prodcution-level Implementations of Recommender System in Pytorch. Clone repo and start training by running 'main.py' | [Link](https://github.com/hyunjoonbok/Recommendation_System-PyTorch) |
 | Natural Language Processing (NLP) Examples | Full implementation examples of several Natural Language Processing methods in Python. Ordered in a persoanl level of complexity | [Link](https://github.com/hyunjoonbok/natural-language-processing) |
+| Python-0-to-100 | Compilation of Python coding tutorials that will level-up your skills | [Link](https://github.com/hyunjoonbok/python-0-to-100) |
 
 
 <hr>

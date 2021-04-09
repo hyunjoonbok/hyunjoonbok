@@ -12,17 +12,18 @@
 
 [![HJ github stats](https://github-readme-stats.vercel.app/api?username=hyunjoonbok&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Data Scientist / Business Analyst
-- +3.5 Years Data Analyst in Gaming industry
-- +1 Year Business Analyst in Non-Profit
+### Experience / Industry
+- Ad Tech
+- Gaming (3.5+ yr)
+- Non-Profit (+1 yr)
 
 
 ### Interest
+- Data modeling
 - Simple Analysis to Business Cost Redcution
 - Machine Learning in Production 
-- AWS Stack / Cloud Services 
 - Business Market Research
-- Work Automation (yes!)
+- Work Automation
 
 
 ### Featured Repo

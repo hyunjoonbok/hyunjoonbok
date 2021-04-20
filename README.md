@@ -13,7 +13,7 @@
 [![HJ github stats](https://github-readme-stats.vercel.app/api?username=hyunjoonbok&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Experience / Industry
-- Ad Tech
+- Ad Tech (current)
 - Gaming (3.5+ yr)
 - Non-Profit (+1 yr)
 

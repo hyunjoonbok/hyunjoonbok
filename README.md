@@ -19,24 +19,35 @@
 
 
 ### Interest
-- Data modeling
 - Simple Analysis to Business Cost Redcution
-- Machine Learning in Production 
-- Business Market Research
+- Machine Learning in Production
+- Cloud Statcks 
+- Data Visualization
 - Work Automation
 
 
 ### Featured Repo
+#### Portforlio
 
 | Repo | Description | Link |
 | --- | --- | --- |
 | R Portforlio | R Portforlio in .R or .Rmd files by business topics (i.e. ML, DL, Text Mining, Time Series, etc) | [Link](https://github.com/hyunjoonbok/R-projects) |
 | Python Portforlio | Python Portforlio mostly in Jupyter Notebooks by ML/DL framework (i.e. Pytorch, Tensorflow, Fast.ai, etc) | [Link](https://github.com/hyunjoonbok/Python-Projects) |
+
+#### Data Science 
+| Repo | Description | Link |
+| --- | --- | --- |
 | AWS SageMaker in Production | End-to-End examples that show how to solve business problems using Amazon SageMaker and it's ML/DL algorithm. Mostly in Jupyter Notebook for easy accessibility | [Link](https://github.com/hyunjoonbok/amazon-sagemaker) |
 | PySpark | PySpark functions and utilities with Real-world Data examples. Can be used to build complete ETL process of data modeling | [Link](https://github.com/hyunjoonbok/PySpark) |
 | Recommendation System | Prodcution-level Implementations of Recommender System in Pytorch. Clone repo and start training by running 'main.py' | [Link](https://github.com/hyunjoonbok/Recommendation_System-PyTorch) |
 | Natural Language Processing (NLP) Examples | Full implementation examples of several Natural Language Processing methods in Python. Ordered in a persoanl level of complexity | [Link](https://github.com/hyunjoonbok/natural-language-processing) |
-| Python-0-to-100 | Compilation of Python coding tutorials that will level-up your skills | [Link](https://github.com/hyunjoonbok/python-0-to-100) |
+
+#### Kaggle
+
+| Repo | Description | Link |
+| --- | --- | --- |
+| Bengali.AI Handwritten Grapheme Classification | Classify three constituent elements in the image, given the image of a handwritten Bengali grapheme | [Link](https://github.com/hyunjoonbok/bengaliai-cv19) |
+
 
 
 <hr>

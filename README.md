@@ -39,8 +39,8 @@
 | --- | --- | --- |
 | AWS SageMaker in Production | End-to-End examples that show how to solve business problems using Amazon SageMaker and it's ML/DL algorithm. Mostly in Jupyter Notebook for easy accessibility | [Link](https://github.com/hyunjoonbok/amazon-sagemaker) |
 | PySpark | PySpark functions and utilities with Real-world Data examples. Can be used to build complete ETL process of data modeling | [Link](https://github.com/hyunjoonbok/PySpark) |
-| Recommendation System | Prodcution-level Implementations of Recommender System in Pytorch. Clone repo and start training by running 'main.py' | [Link](https://github.com/hyunjoonbok/Recommendation_System-PyTorch) |
-| Natural Language Processing (NLP) Examples | Full implementation examples of several Natural Language Processing methods in Python. Ordered in a persoanl level of complexity | [Link](https://github.com/hyunjoonbok/natural-language-processing) |
+| Recommendation System | Production-level Implementations of Recommender System in Pytorch. Clone repo and start training by running 'main.py' | [Link](https://github.com/hyunjoonbok/Recommendation_System-PyTorch) |
+| Natural Language Processing (NLP) Examples | Full implementation examples of several Natural Language Processing methods in Python. Ordered in a personal level of complexity | [Link](https://github.com/hyunjoonbok/natural-language-processing) |
 
 #### Kaggle
 

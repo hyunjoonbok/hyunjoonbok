@@ -18,14 +18,6 @@
 - Non-Profit (+1 yr)
 
 
-### Interest
-- Simple Analysis to Business Cost Redcution
-- Machine Learning in Production
-- Cloud Statcks 
-- Data Visualization
-- Work Automation
-
-
 ### Featured Repo
 #### Portforlio
 

@@ -21,18 +21,18 @@
 
 I worked at small to large-scale companies, so I enjoy getting my hands dirty and solving complex data-driven problems. My passion lies in enabling product growth using data and statistical theories.
 
-• End-to-End designing of company-wide product success measurement through constant hypothesis validation on user behaviors
-• Production-level software & data tooling development. Projects involve data pipelining, object-oriented design/refactoring, integration-testing, and operational maintenance.
-• Experience with petabyte-scale data handling techniques such as Spark
-• Familiarity with Ad-tech domains; real-time bidding, incrementality testing, brand-lift, AB experimenting, etc
+- End-to-End designing of company-wide product success measurement through constant hypothesis validation on user behaviors
+- Production-level software & data tooling development. Projects involve data pipelining, object-oriented design/refactoring, integration-testing, and operational maintenance.
+- Experience with petabyte-scale data handling techniques such as Spark
+- Familiarity with Ad-tech domains; real-time bidding, incrementality testing, brand-lift, AB experimenting, etc
 
 #### Skills
 
-• Programming - Python, R, SQL (Snowflake, MySQL, Postgre), Shell, HTML, CSS
-• Cloud Service - AWS, Docker, Kubernetes, Jenkins, Spark, ELK stacks, Druid
-• Visualization - Tableau, Dash(python), Power BI, Excel
-• Web - Heap, Google Analytics
-• Version / Collaboration - Git, Wiki, JIRA, Slack, Confluence
+- Programming - Python, R, SQL (Snowflake, MySQL, Postgre), Shell, HTML, CSS
+- Cloud Service - AWS, Docker, Kubernetes, Jenkins, Spark, ELK stacks, Druid
+- Visualization - Tableau, Dash(python), Power BI, Excel
+- Web - Heap, Google Analytics
+- Version / Collaboration - Git, Wiki, JIRA, Slack, Confluence
 
 
 

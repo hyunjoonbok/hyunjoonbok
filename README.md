@@ -34,7 +34,7 @@ I worked at small to large-scale companies, so I enjoy getting my hands dirty an
 - Web - Heap, Google Analytics
 - Version / Collaboration - Git, Wiki, JIRA, Slack, Confluence
 
-
+<hr>
 
 ### Featured Repo
 

@@ -29,10 +29,10 @@ I worked at small to large-scale companies, so I enjoy getting my hands dirty an
 #### Skills
 
 - Programming - Python, R, SQL (Snowflake, MySQL, Postgre), Shell, HTML, CSS
-- Cloud Service - AWS, Docker, Kubernetes, Jenkins, Spark, ELK stacks, Druid
+- Cloud Service - AWS, Docker, Kubernetes, Jenkins, Spark,
 - Visualization - Tableau, Dash(python), Power BI, Excel
 - Web - Heap, Google Analytics
-- Version / Collaboration - Git, Wiki, JIRA, Slack, Confluence
+- Version / Collaboration - Git, Wiki, JIRA, Confluence
 
 <hr>
 

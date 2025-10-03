@@ -1,6 +1,5 @@
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
 ![GitHub stars](https://img.shields.io/github/stars/hyunjoonbok/Python-Projects?style=social)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
@@ -15,11 +14,12 @@
 
 🔥 Product-focused Data Scientist 🔥
 
-- Ad Tech (current)
+- B2B SaaS Enterprise (current)
+- Ad Tech
 - Gaming
 - Non-Profit
 
-I worked at small to large-scale companies, so I enjoy getting my hands dirty and solving complex data-driven problems. My passion lies in enabling product growth using data and statistical theories.
+I worked at small to very large-scale companies, so I enjoy getting my hands dirty and solving complex data-driven problems. My passion lies in enabling product growth using data and statistical theories.
 
 - End-to-End designing of company-wide product success measurement through constant hypothesis validation on user behaviors
 - Production-level software & data tooling development. Projects involve data pipelining, object-oriented design/refactoring, integration-testing, and operational maintenance.
